@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <gradient
+        android:angle="0"
+        android:centerColor="#ccf0592b"
+        android:endColor="#ccb62025"
+        android:startColor="#ccfcb64d"
+        android:type="linear" />
+
+    <corners android:radius="2dp" />
+
+</shape><!-- From: file:/C:/Users/He/Desktop/UPLOAD/android/android%20-%20AS/UIAppTemplate/res/drawable/login_media_gradient_background.xml -->
